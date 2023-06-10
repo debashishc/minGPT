@@ -3,3 +3,9 @@ __pycache__/
 *.swp
 .env
 .pylintrc
+
+build/
+dist/
+*.egg-info/
+
+*.txt
